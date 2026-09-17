@@ -1,7 +1,7 @@
 ## Hi, I'm Yebin 👋
 I'm Yebin Lee, studying Smart ICT Convergence at [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/).
 
-I'm interested in **Computer Vision, 3D Vision, and On-Device AI**, and I enjoy turning ideas into practical AI systems.
+My interests include **Computer Vision, 3D Vision, and On-Device AI**, and I enjoy turning ideas into practical AI systems.
 
 You can reach me at yebin061819@gmail.com!
 
