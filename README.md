@@ -16,9 +16,12 @@ I'm Yebin Lee, an undergraduate student majoring in Smart ICT Convergence at [Se
 -----
 ## 📊 GitHub Stats
 
-![Yebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyebin&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyebin&show_icons=true&theme=radical)
-<!--
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=iyebin&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</div>
 **iyebin/iyebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
