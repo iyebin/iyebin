@@ -16,3 +16,5 @@ I'm Yebin Lee, studying Smart ICT Convergence at [Seoul National University of S
 -----
 ## 📊 GitHub Stats
 
+![tomato]("https://github.com/user-attachments/assets/fcc1bd7a-7bca-4243-a95c-247155e822e3")
+
