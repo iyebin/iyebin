@@ -3,7 +3,9 @@ I'm Yebin Lee, an undergraduate student majoring in Smart ICT Convergence at [Se
 
 
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Vision%20·%20Intelligence%20·%20Systems&textBg=false&descAlign=60&section=header&reversal=false&fontColor=333333&fontSize=29)
+
 ---------
+
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white) 
