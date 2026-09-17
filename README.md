@@ -1,4 +1,4 @@
-## Hello, I'm Yebin Lee 👋
+## Hi, nice to meet you 👋
 I'm Yebin Lee, studying Smart ICT Convergence at [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/).
 
 You can reach me at yebin061819@gmail.com!
