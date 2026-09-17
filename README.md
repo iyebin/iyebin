@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white) 
+
+**🛠️ Infra and Tools**
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 <!--
 **iyebin/iyebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
