@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Yebin Lee, from Seoul Sceince & Technology University.
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
