@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yebin Lee, from Seoul Sceince & Technology University.
+I'm Yebin Lee, from [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/)
 
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Vision%20·%20Intelligence%20·%20Systems&textBg=false&descAlign=60&section=header&reversal=false&fontColor=333333&fontSize=29)
 ---------
