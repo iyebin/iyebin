@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm Yebin Lee, from Seoul Sceince & Technology University.
 
+---------
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white) 
