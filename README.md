@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Yebin Lee, from Seoul Sceince & Technology University.
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Vison%20AI&textBg=false&descAlign=60&section=header&reversal=false&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Vision%20·%20Intelligence%20·%20Systems&textBg=false&descAlign=60&section=header&reversal=false&fontColor=333333&fontSize=29)
 ---------
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
