@@ -14,7 +14,9 @@ I'm Yebin Lee, an undergraduate student majoring in Smart ICT Convergence at [Se
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 
 -----
+## 📊 GitHub Stats
 
+![Yebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyebin&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyebin&show_icons=true&theme=radical)
 <!--
 **iyebin/iyebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
