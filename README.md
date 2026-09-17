@@ -14,7 +14,7 @@ I'm Yebin Lee, studying Smart ICT Convergence at [Seoul National University of S
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 
 -----
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![tomato]("https://github.com/user-attachments/assets/fcc1bd7a-7bca-4243-a95c-247155e822e3")
 
