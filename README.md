@@ -14,7 +14,32 @@ I'm Yebin Lee, studying Smart ICT Convergence at [Seoul National University of S
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 
 -----
-### 📊 GitHub Stats
+### ⭐ Projects
+#### 🧊 [PeRF Multi-Panorama](https://github.com/iyebin/perf_multi)
 
-![tomato]("https://github.com/user-attachments/assets/fcc1bd7a-7bca-4243-a95c-247155e822e3")
+> Multi-view panorama-based 3D reconstruction with PanoVGGT and NeRF.
+
+**Tech**  
+`Python` `PyTorch` `NeRF` `PanoVGGT`
+
+**Key Features**
+- Multi-panorama depth and pose estimation
+- PanoVGGT integration
+- Panorama-based novel view synthesis
+
+→ [View Repository](https://github.com/iyebin/perf_multi)
+
+---
+
+#### 🚨 [AI+X Hackathon — 안심하랑께](https://github.com/iyebin/AI_X_Hackathon)
+
+> AI-based anomaly detection system for safer return-home monitoring.
+
+**Tech**  
+`Python` `FastAPI` `React Native` `Supabase` `Transformer`
+
+**Role**  
+Team Lead · AI Model · Backend
+
+→ [View Repository](https://github.com/iyebin/AI_X_Hackathon)
 
